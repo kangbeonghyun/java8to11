@@ -121,7 +121,7 @@ public class App {
 //        Optional<Optional<Progress>> progress1 = springg.map(OnlineClass::getProgress);
 //        Optional<Progress> progress2 = progress1.orElse(Optional.empty());
     }
-
+//git test 
     private static OnlineClass createNewClass() {
         return new OnlineClass(10,"New Class",false);
     }
